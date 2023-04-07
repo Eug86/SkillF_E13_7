@@ -6,3 +6,7 @@ HW_E13_7
 json-server --watch database.json
 2. открываем вторую консоль:
 npm run start
+это дев.
+3. для прода: 
+npm run build
+выполниться создание index.html в папке dist

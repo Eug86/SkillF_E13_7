@@ -9,4 +9,4 @@ npm run start
 это дев.
 3. для прода: 
 npm run build
-выполниться создание index.html в папке dist
+(выполниться создание index.html в папке dist)
